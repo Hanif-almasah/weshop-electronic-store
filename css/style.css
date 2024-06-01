@@ -1,9 +1,9 @@
-body{
-	font-family:arial;
-	font-size:12px;
-	color:#1e5474;
-	background:#F7F7F7;
-	margin:0px;
+body {
+    font-family: arial;
+    font-size: 12px;
+    color: #e236bd;
+    background: blanchedalmond;
+    margin: 0px;
 }
 
 #container {
@@ -49,7 +49,7 @@ body{
 }
 
 #container #footer {
-    background: #1e5475;
+    background: #56d8c2;
     padding: 10px;
 }
 
@@ -104,8 +104,8 @@ body{
     cursor: pointer;
 }
 
-.element-form span input[type="submit"]:hover{
-	background:orange;
+.element-form span input[type="submit"]:hover {
+    background: orange;
 }
 
 .notif {
@@ -141,7 +141,7 @@ body{
 
 #menu-profile ul li a:hover,
 #menu-profile ul li a.active {
-	background:orange;
+    background: orange;
 }
 
 #profile-content {
@@ -165,7 +165,7 @@ body{
 }
 
 .table-list tr th,
-.table-list tr td  {
+.table-list tr td {
     padding: 10px 7px;
 }
 
@@ -203,7 +203,7 @@ body{
 }
 
 .tombol-action:hover {
-	background:orange;
+    background: orange;
 }
 
 #kiri {
@@ -232,7 +232,7 @@ body{
 
 #menu-kategori ul li a:hover,
 #menu-kategori ul li a.active {
-	background:#e8e8e8;
+    background: #e8e8e8;
 }
 
 #kanan {
@@ -307,7 +307,7 @@ body{
 }
 
 #kanan #frame-barang ul li .button-add-cart a:hover {
-    background:orange;
+    background: orange;
 }
 
 #detail-barang {
@@ -350,7 +350,7 @@ body{
 }
 
 #detail-barang #frame-harga a:hover {
-    background:orange;
+    background: orange;
 }
 
 #detail-barang #keterangan {
@@ -383,7 +383,7 @@ body{
 }
 
 .kanan.hapus_item a:hover {
-    color:orange;
+    color: orange;
 }
 
 #frame-button-keranjang a {

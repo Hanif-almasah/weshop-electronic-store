@@ -20,7 +20,8 @@
 <html>
 
 	<head>
-		<title>weshop | barang-barang elektronik</title>
+		<title>Hello Darling | Skincare Underprice</title>
+		
 		
 		<link href="<?php echo BASE_URL."css/style.css"; ?>" type="text/css" rel="stylesheet" />
 		<link href="<?php echo BASE_URL."css/banner.css"; ?>" type="text/css" rel="stylesheet" />
@@ -47,7 +48,7 @@
 		<div id="container">
 			<div id="header">
 				<a href="<?php echo BASE_URL."index.php"; ?>">
-					<img src="<?php echo BASE_URL."images/logo.png"; ?>" />
+					<img src="images/hd logo.png" width="150px"/>
 				</a>
 				
 				<div id="menu">
@@ -90,7 +91,7 @@
 			</div>
 			
 			<div id="footer">
-				<p>copyright weshop 2016</p>
+				<p>Copyright Hello Darling 2024</p>
 			</div>
 			
 		</div>

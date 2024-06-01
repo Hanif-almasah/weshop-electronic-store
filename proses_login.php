@@ -4,7 +4,7 @@
 	include_once("function/helper.php");
 	
 	$email = $_POST['email'];
-	$password = md5($_POST['password']);
+	$password = $_POST['password'];
 	
 	$query = mysqli_query($koneksi, "SELECT * FROM user WHERE email='$email' AND password='$password' AND status='on'");
 	

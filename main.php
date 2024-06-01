@@ -46,7 +46,7 @@
 					echo "<li $style>
 							<p class='price'>".rupiah($row['harga'])."</p>
 							<a href='".BASE_URL."index.php?page=detail&barang_id=$row[barang_id]'>
-								<img src='".BASE_URL."images/barang/$row[gambar]' />
+								<img src='images/barang/$row[gambar]' />
 							</a>
 							<div class='keterangan-gambar'>
 								<p><a href='".BASE_URL."index.php?page=detail&barang_id=$row[barang_id]'>$row[nama_barang]</a></p>
